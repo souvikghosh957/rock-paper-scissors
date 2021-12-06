@@ -23,6 +23,12 @@ public class RockPaperScissorController {
 
 	@Autowired
 	private RockPaperScissorService rockPaperScissorService;
+	
+	@GetMapping("/me/{name}")
+	public String home(@PathVariable String name) {		
+		return "<h2> Hello " + name + "</h2>";
+	}
+	
 
 	/**
 	 * Generate a random token and returns for later uses
