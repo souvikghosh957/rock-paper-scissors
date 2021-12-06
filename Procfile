@@ -1,0 +1,1 @@
+web: java -jar target/rock-paper-scissor-0.0.1.jar
