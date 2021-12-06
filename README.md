@@ -1,4 +1,4 @@
-Rock-Paper-Scissor game deployed in heroku.
+<h2> Rock-Paper-Scissors Game: Deployed in Heroku. </h2>
 
 
 <div> Generate Toke: https://serene-basin-03504.herokuapp.com/game/start </div>
